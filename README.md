@@ -1,6 +1,20 @@
 # 💫 About Me:
-Hi there 👋 I'm Irfan Shaikh<br><br>- 🔭 I’m currently working on Web Development Projects<br>- 🌱 I’m learning advanced ReactJS and Node.js<br>- 👯 I’m looking to collaborate on innovative Full Stack Projects<br>- 💬 Ask me about Java, JavaScript, and React<br>- 📫 How to reach me: [irfanulhawk@gmail.com](mailto:irfanulhawk@gmail.com)<br>- ⚡ Fun fact: I love Table Tennis and Football.<br><br>Projects & Achievements :-<br>- Top 3 in Devdash -Devpost Hackathon 🚀<br>- Open-source contributor in SSOC Season 3 🌍: Actively contributed to open-source projects, improving functionality and fixing bugs across different repositories.<br>- Contributed to various Full Stack Projects<br>
+Hi there 👋 I'm Irfan Shaikh<br><br>
+- 🔭 I’m currently working on Web Development Projects<br>
+- 🌱 I’m learning advanced ReactJS and Node.js<br>
+- 👯 I’m looking to collaborate on innovative Full Stack Projects<br>
+- 💬 Ask me about Java, JavaScript, and React<br>
+- 📫 How to reach me: [irfanulhawk@gmail.com](mailto:irfanulhawk@gmail.com)<br>
+- ⚡ Fun fact: I love Table Tennis and Football.<br><br>
 
+## 🌍 Open Source Contributions:
+- **Open-source contributor in SSOC Season 3**: Actively contributed to open-source projects, improving functionality and fixing bugs across different repositories.<br>
+- **GSSOC 2024**: Initially contributed as a Contributor, and now serving as a Mentor.<br><br>
+
+## 🚀 Projects & Achievements:
+- Top 3 in Devdash - Devpost Hackathon<br>
+- Participated in Codement-24 Hackathon.<br>
+- Contributed to various Full Stack Projects<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/irfan0504) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/irfanulhawk.shaikh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irfan-shaikh-8b5b94259/) 
