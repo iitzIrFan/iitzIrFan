@@ -8,8 +8,8 @@ Hi there 👋 I'm Irfan Shaikh<br><br>
 - ⚡ Fun fact: I love Table Tennis and Football.<br><br>
 
 ## 🌍 Open Source Contributions:
-- **Contributor in SSOC Season 3**: Actively contributed to open-source projects, improving functionality and fixing bugs across different repositories.<br>
-- **GSSOC 2024**: Initially contributed as a Contributor, and now serving as a Mentor.<br><br>
+- **Contributor in Social Summer Of Code [SSOC] Season 3**: Actively contributed to open-source projects, improving functionality and fixing bugs across different repositories.<br>
+- **GirlScript Summer Of Code [GSSOC] 2024**: Initially contributed as a Contributor, and now serving as a Mentor.<br><br>
 
 ## 🚀 Projects & Achievements:
 - Top 3 in Devdash - Devpost Hackathon<br>
