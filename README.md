@@ -10,6 +10,7 @@ Hi there 👋 I'm Irfan Shaikh<br><br>
 ## 🌍 Open Source Contributions:
 - **Contributor in Social Summer Of Code [SSOC] Season 3**: Actively contributed to open-source projects, improving functionality and fixing bugs across different repositories.<br>
 - **GirlScript Summer Of Code [GSSOC] 2024**: Initially contributed as a Contributor, and now serving as a Mentor.<br><br>
+- **Hacktoberfest**: Contributed to open-source projects by fixing bugs, improving features, and submitting pull requests across various repositories during the global event.<br><br>
 
 ## 🚀 Projects & Achievements:
 - Top 3 in Devdash - Devpost Hackathon<br>
