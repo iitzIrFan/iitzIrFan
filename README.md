@@ -12,6 +12,8 @@ Hi there 👋 I'm Irfan Shaikh<br><br>
 - **GirlScript Summer Of Code [GSSOC] 2024**: Initially contributed as a Contributor, and now serving as a Mentor.<br>
 - **Hacktoberfest Contributor**: Contributed to open-source projects by fixing bugs, improving features, and submitting pull requests across various repositories during the global event.<br><br>
 
+[![An image of @iitzirfan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iitzirfan)](https://holopin.io/@iitzirfan)
+
 ## 🚀 Projects & Achievements:
 - Top 3 in Devdash - Devpost Hackathon<br>
 - Participated in Codement-24 Hackathon.<br>
