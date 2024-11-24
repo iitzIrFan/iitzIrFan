@@ -15,9 +15,10 @@ Hi there 👋 I'm Irfan Shaikh<br><br>
 [![An image of @iitzirfan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iitzirfan)](https://holopin.io/@iitzirfan)
 
 ## 🚀 Projects & Achievements:
-- Top 3 in Devdash - Devpost Hackathon<br>
-- Participated in Codement-24 Hackathon.<br>
-- Contributed to various Full Stack Projects<br>
+- Ranked 19th among 500+ mentors in GirlScript Summer of Code 2024.<br>
+- Top 3 in Devdash-Devpost Hackathon (15+ teams).<br>
+- Volunteer for Infi League ATVC Motorsports.<br>
+- Participant in Codement-24 Hackathon<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/irfan0504) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/irfanulhawk.shaikh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irfan-shaikh-8b5b94259/) 
