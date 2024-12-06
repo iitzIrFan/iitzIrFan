@@ -14,7 +14,7 @@ Hi there 👋 I'm Irfan Shaikh<br><br>
 
 [![An image of @iitzirfan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iitzirfan)](https://holopin.io/@iitzirfan)
 
-## 🚀 Projects & Achievements:
+## 🚀 Some Achievements:
 - Ranked 19th among 500+ mentors in GirlScript Summer of Code 2024.<br>
 - Top 3 in Devdash-Devpost Hackathon (15+ teams).<br>
 - Volunteer for Infi League ATVC Motorsports.<br>
