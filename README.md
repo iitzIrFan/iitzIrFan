@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there 👋 I'm Irfan Shaikh<br><br>
 - 🔭 I’m currently working on Web Development Projects<br>
-- 🌱 I’m learning advanced ReactJS and Node.js<br>
+- 🌱 I’m learning ReactJS and Node.js<br>
 - 👯 I’m looking to collaborate on innovative Full Stack Projects<br>
 - 💬 Ask me about Java, JavaScript, and React<br>
 - 📫 How to reach me: [irfanulhawk@gmail.com](mailto:irfanulhawk@gmail.com)<br>
