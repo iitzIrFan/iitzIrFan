@@ -9,8 +9,8 @@ Hi there 👋 I'm Irfan Shaikh<br><br>
 
 ## 🌍 Open Source Contributions:
 - **Social Winter Of Code [SWOC]**: Progressed from a Contributor to a Mentor, providing guidance, technical expertise, and leadership to help contributors succeed in open-source development.<br>
-- **Hacktoberfest Contributor**: Contributed to open-source projects by fixing bugs, improving features, and submitting pull requests across various repositories during the global event.<br>
-- **GirlScript Summer Of Code [GSSOC] 2024**: Initially contributed as a Contributor, and now serving as a Mentor.<br>
+- **Hacktoberfest Contributor**: Contributed to open-source projects by fixing bugs, improving features, and submitting pull requests across various repositories during the global event & gained positive feedbacks from the project admins for whome I had workeed with.<br>
+- **GirlScript Summer Of Code [GSSOC] 2024**: Initially contributed as a Contributor, and then serving as a Mentor.<br>
 - **Contributor in Social Summer Of Code [SSOC] Season 3**: Actively contributed to open-source projects, improving functionality and fixing bugs across different repositories.<br><br>
 
 [![An image of @iitzirfan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iitzirfan)](https://holopin.io/@iitzirfan)
