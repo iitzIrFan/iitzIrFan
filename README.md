@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 I'm Irfan Shaikh<br><br>
+Hi there 👋 I'm **Irfan Shaikh**<br><br>
 - 🔭 I’m currently working on Web Development Projects<br>
 - 🌱 I’m learning ReactJS and Node.js<br>
 - 👯 I’m looking to collaborate on innovative Full Stack Projects<br>
@@ -9,7 +9,7 @@ Hi there 👋 I'm Irfan Shaikh<br><br>
 
 ## 🌍 Open Source Contributions:
 - **Social Winter Of Code [SWOC]**: Progressed from a Contributor to a Mentor, providing guidance, technical expertise, and leadership to help contributors succeed in open-source development.<br>
-- **Hacktoberfest Contributor**: Contributed to open-source projects by fixing bugs, improving features, and submitting pull requests across various repositories during the global event & gained positive feedbacks from the project admins for whome I had workeed with.<br>
+- **Hacktoberfest Contributor**: Contributed to open-source projects by fixing bugs, improving features, and submitting pull requests across various repositories during the global event & gained positive feedbacks from the project admins for whome I had worked with.<br>
 - **GirlScript Summer Of Code [GSSOC] 2024**: Initially contributed as a Contributor, and then serving as a Mentor.<br>
 - **Contributor in Social Summer Of Code [SSOC] Season 3**: Actively contributed to open-source projects, improving functionality and fixing bugs across different repositories.<br><br>
 
