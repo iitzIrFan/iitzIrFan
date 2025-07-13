@@ -1,46 +1,197 @@
-# 💫 About Me:
-Hi there 👋 I'm **Irfan Shaikh**<br><br>
-- 🔭 I’m currently working on Web Development Projects<br>
-- 🌱 I’m learning ReactJS and Node.js<br>
-- 👯 I’m looking to collaborate on innovative Full Stack Projects<br>
-- 💬 Ask me about Java, JavaScript, and React<br>
-- 📫 How to reach me: [irfanulhawk@gmail.com](mailto:irfanulhawk@gmail.com)<br>
-- ⚡ Fun fact: I love Table Tennis and Football.<br><br>
+<!-- Profile Banner -->
+<p align="center">
+  <a href="https://irfan-shaikh-portfolio.vercel.app/" target="_blank">
+    <img 
+      src="" 
+      alt="Irfan Shaikh" 
+      width="150" 
+      style="border-radius: 50%; max-width: 100%; height: auto;" 
+    />
+  </a>
+</p>
 
-## 🌍 Open Source Contributions:
-- **Social Winter Of Code [SWOC]**: Progressed from a Contributor to a Mentor, providing guidance, technical expertise, and leadership to help contributors succeed in open-source development.<br>
-- **Hacktoberfest Contributor**: Contributed to open-source projects by fixing bugs, improving features, and submitting pull requests across various repositories during the global event & gained positive feedbacks from the project admins for whome I had worked with.<br>
-- **GirlScript Summer Of Code [GSSOC] 2024**: Initially contributed as a Contributor, and then serving as a Mentor.<br>
-- **Contributor in Social Summer Of Code [SSOC] Season 3**: Actively contributed to open-source projects, improving functionality and fixing bugs across different repositories.<br><br>
 
-[![An image of @iitzirfan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iitzirfan)](https://holopin.io/@iitzirfan)
-
-## 🚀 Some Achievements:
-- Ranked 19th among 500+ mentors in GirlScript Summer of Code 2024.<br>
-- Top 3 in Devdash-Devpost Hackathon (15+ teams).<br>
-- Volunteer for Infi League ATVC Motorsports.<br>
-- Participant in Codement-24 Hackathon<br>
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/irfan0504) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/irfanulhawk.shaikh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irfan-shaikh-8b5b94259/) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=plastic&logo=linode&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=plastic&logo=bun&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=plastic&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iitzIrFan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iitzIrFan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iitzIrFan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iitzIrFan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a href="https://irfan-shaikh-portfolio.vercel.app/" target="_blank">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Irfan+Shaikh+%F0%9F%91%8B;Full+Stack+Developer;Open+Source+Contributor+%7C+Tech+Explorer+%F0%9F%9A%80" 
+      alt="Typing SVG"
+      style="max-width: 100%; height: auto;" 
+    />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iitzIrFan&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iitzirfan) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+🎯 **Mission:** I build scalable, user-centric web apps that solve real-world problems.  
+💼 **Looking for:** Freelance gigs, full-time roles & impactful open-source collabs.  
+💡 **Currently learning:** React.js, Node.js, PostgreSQL & scalable backend design  
+📬 **Reach me:** [irfanulhawk@gmail.com](mailto:irfanulhawk@gmail.com)  
+🌐 **Portfolio:** [irfan-shaikh-portfolio.vercel.app](https://irfan-shaikh-portfolio.vercel.app/)  
+🎮 **Fun Fact:** Table Tennis & Football player when AFK ⚽🏓
+
+---
+
+## 🌐 Let’s Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/irfan-shaikh-8b5b94259/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/iitzIrfan">
+    <img src="https://img.shields.io/badge/X-%23111.svg?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/irfan0504">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/irfanulhawk.shaikh">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://github.com/iitzIrFan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<details>
+<summary>✨ Open Source Contributions & Roles</summary>
+
+| 🌟 Project/Event | 🛠 Role | 📌 Highlights |
+|------------------|--------|--------------|
+| **GSSOC 2024** | 🧑‍🏫 Mentor | Ranked Top 19 among 500+ mentors |
+| **SWOC** | 🧑‍🏫 Mentor | From Contributor ➜ Mentor |
+| **SSOC (Season 3)** | 🧑‍💻 Contributor | Bug fixes, features, PR reviews |
+| **Hacktoberfest** | 🌐 Contributor | Recommended by maintainers |
+
+🎖 Holopin Badges:  
+[![Holopin](https://holopin.me/iitzirfan)](https://holopin.io/@iitzirfan)
+
+</details>
+
+---
+
+<details>
+<summary>🏆 Notable Achievements</summary>
+
+- 🥇 Top 3 – Devdash Hackathon (15+ teams)  
+- 🧑‍🏫 Mentored 30+ contributors at GSSOC & SWOC  
+- ⚙️ Volunteer – Infi League ATVC Motorsports  
+- 👨‍💻 Active Hacker – Codement-24 Hackathon  
+- 🧪 Currently contributing to **Qwik framework** (Builder.io)
+
+</details>
+
+---
+
+<details>
+<summary>🧠 Tech Toolbox</summary>
+
+<details>
+<summary><strong>🛠 Languages & Web Technologies</strong></summary>
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+</details>
+
+<details>
+<summary><strong>🧩 Frameworks & Libraries</strong></summary>
+
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
+
+</details>
+
+<details>
+<summary><strong>🗄️ Databases</strong></summary>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</details>
+
+<details>
+<summary><strong>⚙️ Tools & Platforms</strong></summary>
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</details>
+
+<details>
+<summary><strong>📈 Competitive Programming</strong></summary>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/iitzIrfan/)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/iitzirfan)  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/iitzirfan/)
+
+</details>
+
+</details>
+
+---
+
+<details>
+<summary>📊 GitHub Insights</summary>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iitzIrFan&theme=radical&show_icons=true&hide_border=false" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iitzIrFan&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iitzIrFan&layout=compact&theme=radical&hide_border=false" alt="Top Langs" />
+</p>
+
+</details>
+
+---
+
+<details>
+<summary>🏅 GitHub Trophies</summary>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iitzIrFan&theme=radical&margin-w=6&no-frame=false" alt="GitHub Trophies" />
+</p>
+
+</details>
+
+---
+
+<details>
+<summary>💬 Dev Quote</summary>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
+
+</details>
+
+---
+
+## ☕ Support My Work
+
+<p align="center">
+    <a href="https://github.com/sponsors/iitzIrFan">
+    <img src="https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+  </a>
+  <a href="https://buymeacoffee.com/iitzirfan">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</p>
+
+---
+
+<!-- 🔥 Designed & powered by ChatGPT + GPRM + Irfan Shaikh -->
