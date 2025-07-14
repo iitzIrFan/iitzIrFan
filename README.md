@@ -1,14 +1,4 @@
 <!-- Profile Banner -->
-<p align="center">
-  <a href="https://irfan-shaikh-portfolio.vercel.app/" target="_blank">
-    <img 
-      src="https://drive.google.com/uc?export=view&id=1aAuLkTW6j8nGlQJvVXVfyXcpxEDkTmqS" 
-      alt="Irfan Shaikh Avatar" 
-      width="200" 
-      style="border-radius: 12px; max-width: 100%; height: auto;" 
-    />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://irfan-shaikh-portfolio.vercel.app/" target="_blank">
