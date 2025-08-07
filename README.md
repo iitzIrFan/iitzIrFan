@@ -28,7 +28,7 @@
 💼 **Looking for:** Freelance gigs, full-time roles & impactful open-source collabs.  
 💡 **Currently learning:** React.js, Node.js, PostgreSQL & scalable backend design  
 📬 **Reach me:** [irfanulhawk@gmail.com](mailto:irfanulhawk@gmail.com)  
-🌐 **Portfolio:** [iitzirfan.me](http://iitzirfan.me/)  
+🌐 **Portfolio:** [iitzirfan.me](https://irfan-shaikh-portfolio.vercel.app/)  
 🎮 **Fun Fact:** Table Tennis & Football player when AFK ⚽🏓
 
 ---
