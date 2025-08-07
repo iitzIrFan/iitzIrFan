@@ -11,7 +11,7 @@
 </p>
 <!-- Banner -->
 <p align="center">
-  <a href="https://irfan-shaikh-portfolio.vercel.app/" target="_blank">
+  <a href="iitzirfan.me/" target="_blank">
     <img 
       src="https://drive.google.com/uc?export=view&id=1tt6nmLvSAIwBgMqCCy6Z0bCWBPUKMjda" 
       alt="Irfan Shaikh Banner" 
