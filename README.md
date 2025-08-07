@@ -1,7 +1,7 @@
 <!-- Profile Banner -->
 <!-- Running txt -->
 <p align="center">
-  <a href="https://irfan-shaikh-portfolio.vercel.app/" target="_blank">
+  <a href="iitzirfan.me/" target="_blank">
     <img 
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Irfan+Shaikh+%F0%9F%91%8B;Full+Stack+Developer;Open+Source+Contributor+%7C+Tech+Explorer+%F0%9F%9A%80" 
       alt="Typing SVG"
@@ -28,7 +28,7 @@
 💼 **Looking for:** Freelance gigs, full-time roles & impactful open-source collabs.  
 💡 **Currently learning:** React.js, Node.js, PostgreSQL & scalable backend design  
 📬 **Reach me:** [irfanulhawk@gmail.com](mailto:irfanulhawk@gmail.com)  
-🌐 **Portfolio:** [irfan-shaikh-portfolio.vercel.app](https://irfan-shaikh-portfolio.vercel.app/)  
+🌐 **Portfolio:** [iitzirfan.me](http://iitzirfan.me/)  
 🎮 **Fun Fact:** Table Tennis & Football player when AFK ⚽🏓
 
 ---
