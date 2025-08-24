@@ -26,7 +26,7 @@
 
 🎯 **Mission:** I build scalable, user-centric web apps that solve real-world problems.  
 💼 **Looking for:** Freelance gigs, full-time roles & impactful open-source collabs.  
-💡 **Currently learning:** React.js, Node.js, PostgreSQL & scalable backend design  
+💡 **Currently learning:** React.js, Node.js, Next.js, PostgreSQL & scalable user end-to-end application designs  
 📬 **Reach me:** [irfanulhawk@gmail.com](mailto:irfanulhawk@gmail.com)  
 🌐 **Portfolio:** [iitzirfan.me](https://irfan-shaikh-portfolio.vercel.app/)  
 🎮 **Fun Fact:** Table Tennis & Football player when AFK ⚽🏓
