@@ -30,6 +30,7 @@
 📬 **Reach me:** [irfanulhawk@gmail.com](mailto:irfanulhawk@gmail.com)  
 🌐 **Portfolio:** [iitzirfan.me](https://iitzirfan.me/)  
 🎮 **Fun Fact:** Table Tennis & Football player when AFK ⚽🏓  
+📄 **Notion doc** [Proof-Of-Work](https://www.notion.so/Irfan-Shaikh-Developer-Portfolio-28e360c7b6df80b88759c3bad2d7cee8?source=copy_link)
 
 ---
 
