@@ -24,24 +24,35 @@
 
 ## 🚀 About Me
 
-🎯 **Mission:** I build scalable, user-centric web apps solving real-world problems.  
-💼 **Looking for:** Freelance gigs, full-time roles & impactful open-source collabs.  
-💡 **Currently learning:** React.js, Node.js, Next.js, PostgreSQL, and end-to-end scalable architectures.  
+🎯 **Mission:** I design and build real-world applications with a strong focus on performance, usability, and clean architecture.  
+
+💼 **Open to:** Full-time Roles, Internships, Contract Roles, Freelance Opportunities and Impactful FOSS collaborations.
+
+💡 **Currently focused on:**  
+- Building production-ready apps with **React.js, Next.js, Node.js**  
+- Designing scalable backend systems & APIs  
+- Working with **PostgreSQL** and real-world data flows  
+- Improving system design & end-to-end architecture  
+
+🚀 **What I’m actively doing:**  
+- Shipping projects that solve practical problems  
+- Contributing to open-source (Kestra & beyond)  
+- Continuously refining code quality and developer practices  
+
 📬 **Reach me:** [irfanulhawk@gmail.com](mailto:irfanulhawk@gmail.com)  
 🌐 **Portfolio:** [iitzirfan.me](https://iitzirfan.me/)  
-🎮 **Fun Fact:** Table Tennis & Football player when AFK ⚽🏓  
-📄 **Notion doc** [Proof-Of-Work](https://www.notion.so/Irfan-Shaikh-Developer-Portfolio-28e360c7b6df80b88759c3bad2d7cee8?source=copy_link)
+📄 **Proof of Work:** [View Notion Portfolio](https://www.notion.so/Irfan-Shaikh-Developer-Portfolio-28e360c7b6df80b88759c3bad2d7cee8?source=copy_link)  
+
+🎮 **Beyond code:** Table Tennis 🏓 | Football ⚽
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="center">
+  <a href="https://github.com/iitzIrFan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/irfan-shaikh-8b5b94259/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/iitzIrfan"><img src="https://img.shields.io/badge/X-%23111?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://discord.gg/irfan0504"><img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://facebook.com/irfanulhawk.shaikh"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://github.com/iitzIrFan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -51,9 +62,9 @@
 
 | 🏢 Company / Role | 📌 Key Contributions |
 |------------------|-------------------|
-| **Celebal Technologies (Summer Intern)** | - Built **real-time React.js apps** with WebSocket<br>- Optimized UI performance and rendering efficiency<br>- Implemented effective **state management strategies** |
-| **Open-Source Contributions (Contributor / Mentor)** | - Contributed to **Kestra.io**, **OWASP (GSoC)**, **Qwik Framework**, **RecodeHive**<br>- Built full-stack apps with **JAVA, Vue.js, Django, React.js, Next.js, PostgreSQL**<br>- Mentored new contributors & implemented robust **API integrations** |
-| **PHN Technology Pvt Ltd (Web Developer Intern)** | - Developed responsive UI components<br>- Integrated backend APIs for **applications** |
+| **Celebal Technologies (Summer Intern)** | - Engineered **real-time React.js applications** using WebSocket for dynamic user experiences<br>- Improved UI performance through optimized **state management & rendering strategies** |
+| **Open-Source Contributor (Mentor & Builder)** | - Contributed to **Kestra.io, OWASP (GSoC), Qwik (Builder.io), RecodeHive**<br>- Built & enhanced full-stack systems using **Java (JDBC), React.js, Next.js, Vue.js, Django, PostgreSQL**<br>- Resolved issues, shipped features, and mentored new contributors in OSS programs<br>- Participated in **architecture discussions & API integrations** |
+| **PHN Technology Pvt Ltd (Web Developer Intern)** | - Developed **responsive UI components** for production-ready applications<br>- Integrated frontend with backend APIs to deliver a functional MVP |
 
 </details>
 
@@ -61,14 +72,14 @@
 <details>
 <summary>✨ Open Source Contributions & Roles</summary>
 
-| 🌟 Project/Event | 🛠 Role | 📌 Highlights |
+| 🌟 Program/Event | 🛠 Role | 📌 Highlights |
 |------------------|--------|--------------|
-| **GSSOC 2024** | 🧑‍🏫 Mentor | Top 19 among 500+ mentors |
-| **SWOC** | 🧑‍🏫 Mentor | From Contributor ➜ Mentor |
-| **SSOC (Season 3)** | 🧑‍💻 Contributor | Bug fixes, feature dev, PR reviews |
-| **Hacktoberfest** | 🌐 Contributor | Maintainer recommended |
+| **GSSOC 2024** | 🧑‍🏫 Mentor | Ranked **Top 19 Mentor** among 500+; guided contributors & reviewed PRs |
+| **SWOC** | 🧑‍🏫 Mentor | Progressed from **Contributor → Mentor**, supporting and guiding OSS participants |
+| **SSOC (Season 3)** | 🧑‍💻 Contributor | Contributed via **bug fixes, feature development, and PR reviews** |
+| **Hacktoberfest** | 🌐 Contributor | Actively contributed to OSS; received **maintainer recognition** |
 
-🎖 Holopin Badges:  
+🎖 **Holopin Badges:**  
 [![Holopin](https://holopin.me/iitzirfan)](https://holopin.io/@iitzirfan)
 
 </details>
@@ -76,11 +87,11 @@
 <details>
 <summary>🏆 Notable Achievements</summary>
 
-- 🥇 **Top 3** – Devdash Hackathon (15+ teams)  
-- 🧑‍🏫 Mentored 30+ contributors at **GSSOC & SWOC**  
-- ⚙️ Volunteer – **Infi League ATVC Motorsports**  
-- 👨‍💻 Active Hacker – Codement-24 Hackathon  
-- 🧪 Currently contributing to **Qwik framework** (Builder.io)
+- 🥇 **Top 3 Finalist** – Devdash Hackathon (15+ competing teams)  
+- 🧑‍🏫 **Mentor** – Guided 30+ contributors across GSSOC & SWOC open-source programs  
+- ⚙️ **Volunteer Engineer** – Infi League, ATVC Motorsports (team-based engineering collaboration)  
+- 👨‍💻 **Hackathon Participant** – Codement-24 (active builder & problem solver)  
+- 🧪 **Open Source Contributor** – Contributing to Qwik (Builder.io) ecosystem  
 
 </details>
 
@@ -90,32 +101,58 @@
 <details>
 <summary>🛠 Languages & Web Technologies</summary>
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+
+### 🌐 Web Technologies
+![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </details>
 
 <details>
 <summary>🧩 Frameworks & Libraries</summary>
 
-React.js, Next.js, FastAPI, Express.js, Node.js, Vue.js, Tailwind CSS, Chakra UI
+![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/ChakraUI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
 
 </details>
 
 <details>
 <summary>🗄️ Databases & Caching</summary>
 
-PostgreSQL, MongoDB, Redis
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
 
 </details>
 
 <details>
 <summary>⚙️ Tools & Platforms</summary>
 
-Git, GitHub, Docker, VS Code, Vercel, Railway, CI/CD
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </details>
 
