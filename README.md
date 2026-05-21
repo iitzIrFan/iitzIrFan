@@ -50,7 +50,6 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/iitzIrFan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/irfan-shaikh-8b5b94259/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/iitzIrfan"><img src="https://img.shields.io/badge/X-%23111?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
