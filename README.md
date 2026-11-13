@@ -1,6 +1,6 @@
 <!-- Profile Typing Banner -->
 <p align="center">
-  <a href="https://iitzirfan.me/" target="_blank">
+  <a href="https://iitzirfan.com/" target="_blank">
     <img 
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Irfan+Shaikh+%F0%9F%91%8B;Full+Stack+Developer;Open+Source+Contributor+%7C+Tech+Explorer+%F0%9F%9A%80" 
       alt="Typing SVG"
@@ -11,9 +11,9 @@
 
 <!-- Profile Banner -->
 <p align="center">
-  <a href="https://iitzirfan.me/" target="_blank">
+  <a href="https://iitzirfan.com/" target="_blank">
     <img 
-      src="https://drive.google.com/uc?export=view&id=1tt6nmLvSAIwBgMqCCy6Z0bCWBPUKMjda" 
+      src="https://drive.usercontent.google.com/download?id=1_CSVKG97-uZvErERrc2PUsn88UPdgP4h&export=view" 
       alt="Irfan Shaikh Banner" 
       style="max-width: 100%; height: auto; border-radius: 15px;" 
     />
