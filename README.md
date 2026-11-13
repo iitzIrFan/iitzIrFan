@@ -41,7 +41,7 @@
 
 📬 **Reach me:** [irfanulhawk@gmail.com](mailto:irfanulhawk@gmail.com)  
 🌐 **Portfolio:** [iitzirfan.com](https://www.iitzirfan.com/)  
-📄 **Proof of Work:** [View Notion Portfolio](https://www.notion.so/Irfan-Shaikh-Developer-Portfolio-28e360c7b6df80b88759c3bad2d7cee8?source=copy_link)  
+📄 **Proof of Work:** [View Notion Portfolio](https://app.notion.com/p/iitzirfanpow/Irfan-s-Notion-Portfolio-28e360c7b6df80b88759c3bad2d7cee8?source=copy_link)  
 
 🎮 **Beyond code:** Table Tennis 🏓 | Football ⚽
 
